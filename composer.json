@@ -1,10 +1,10 @@
 {
   "name": "kkrieger85/magento2-locale-it-it",
   "description": "Italian language",
+  "version":"100.0.0-dev",
   "license": [
     "OSL-3.0"
   ],
-  "minimum-stability": "dev",
   "require": {
     "magento/framework": "100.0.*"
   },
