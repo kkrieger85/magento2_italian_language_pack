@@ -29,7 +29,7 @@ on your shell:
 ```
     composer require kkrieger85/magento2-locale-it-it:"dev-master"
     
-    php bin/magento setup:static-content:deploy de_DE
+    php bin/magento setup:static-content:deploy it_IT
 ``` 
 
 
