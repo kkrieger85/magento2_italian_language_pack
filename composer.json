@@ -1,7 +1,7 @@
 {
   "name": "kkrieger85/magento2-locale-it-it",
   "description": "Italian language",
-  "version":"100.0.0-dev",
+  "version":"100.0.0-alpha",
   "license": [
     "OSL-3.0"
   ],
