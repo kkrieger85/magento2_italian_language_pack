@@ -53,7 +53,7 @@ And use language.xml this way:
     <vendor>[vendorname]</vendor>
     <package>[packagename]</package>
     <sort_order>100</sort_order>
-    <use vendor="kkrieger85" package="it_it" />
+    <use vendor="kkrieger" package="it_it" />
 </language>
 ```
 
