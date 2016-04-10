@@ -2,7 +2,7 @@
 
 ## information
 
-This translation pack is basend on [Magento2 Italion translation on Crowdin.com](https://crowdin.com/project/magento-2/it#)
+This translation pack is basend on [Magento2 Italian translation on Crowdin.com](https://crowdin.com/project/magento-2/it#)
 
 Italian is not a spoken language of mine. Therefore it could take some days to confirm translation pull requests
 
@@ -10,3 +10,4 @@ Italian is not a spoken language of mine. Therefore it could take some days to c
 
 Go to your magento2 installation ./htdocs
 
+wget https://crowdin.com/download/project/magento-2/
